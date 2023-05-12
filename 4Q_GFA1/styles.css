@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    vertical-align: middle;
+    height: 10vh;
+    line-height: 10vh;
+    color: white;
+    background-color: black;
+}
+
+#discussion {
+    float:left;
+    text-align: center;
+    width: 40%;
+    height: 90vh;
+    padding: 2%;
+}
+
+#form {
+    float: right;
+    text-align: center;
+    width: 40%;
+    padding: 2%;
+}
+
+.inputform {
+    margin-bottom: 1vh;
+}
